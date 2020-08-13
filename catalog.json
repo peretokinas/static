@@ -1,0 +1,50 @@
+[
+    {
+        "productName":"MANGO PEOPLE T-SHIRT",
+        "productPrice":52,
+        "productImg":"https://raw.githubusercontent.com/peretokinas/static/master/featured_item_1.png",
+        "productId":"prod_0"
+    },
+    {
+        "productName":"Mango  Blouse",
+        "productPrice":72,
+        "productImg":"https://raw.githubusercontent.com/peretokinas/static/master/featured_item_2.png",
+        "productId":"prod_1"
+    },
+    {
+        "productName":"Banana Jacket",
+        "productPrice":140,
+        "productImg":"https://raw.githubusercontent.com/peretokinas/static/master/featured_item_3.png",
+        "productId":"prod_2"
+    },
+    {
+        "productName":"Watermelon Sundress",
+        "productPrice":105,
+        "productImg":"https://raw.githubusercontent.com/peretokinas/static/master/featured_item_4.png",
+        "productId":"prod_3"
+    },
+    {
+        "productName":"Potato Zebra Blouse",
+        "productPrice":80,
+        "productImg":"https://raw.githubusercontent.com/peretokinas/static/master/featured_item_5.png",
+        "productId":"prod_4"
+    },
+    {
+        "productName":"Potato suit jacket",
+        "productPrice":97,
+        "productImg":"https://raw.githubusercontent.com/peretokinas/static/master/featured_item_6.png",
+        "productId":"prod_5"
+    },
+    {
+        "productName":"spanch bob short pants",
+        "productPrice":77,
+        "productImg":"https://raw.githubusercontent.com/peretokinas/static/master/featured_item_7.png",
+        "productId":"prod_6"
+    },
+    {
+        "productName":"summer babuskin switer",
+        "productPrice":104,
+        "productImg":"https://raw.githubusercontent.com/peretokinas/static/master/featured_item_8.png",
+        "productId":"prod_7"
+    }
+]
